@@ -11,4 +11,9 @@ body {
 body {
   color: var(--color3);
   background-color: var(--color1);
+  position: relative;
+}
+
+.header {
+  width: 100%;
 }
